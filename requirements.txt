@@ -1,6 +1,1 @@
-Flask==2.1.0
-hashlib==1.12.0
-pycrypto==2.6.1
-secretsharing==0.10.3
-tkinter==8.6
-webbrowser==0.6.1
+flask
