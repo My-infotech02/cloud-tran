@@ -1,4 +1,4 @@
-python-flask
+flask
 hashlib
 pycrypto
 secretsharing
