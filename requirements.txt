@@ -1,6 +1,1 @@
 flask
-hashlib
-pycrypto
-secretsharing
-tkinter
-webbrowser
