@@ -1,1 +1,11 @@
-flask
+# Other dependencies
+requests==2.26.0
+flask==2.0.1
+
+# No need to specify hashlib as it's part of the Python standard library
+
+pycrypto==2.6.1
+secretsharing==0.12.5
+tkinter==8.6
+pycrypto==2.6.1
+secretsharing==0.12.5
